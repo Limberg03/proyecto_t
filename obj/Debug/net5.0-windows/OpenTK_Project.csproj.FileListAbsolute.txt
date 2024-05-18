@@ -1,0 +1,186 @@
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.exe
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.deps.json
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.runtimeconfig.json
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.runtimeconfig.dev.json
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.pdb
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Compute.dll
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Core.dll
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Graphics.dll
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Input.dll
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Mathematics.dll
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.OpenAL.dll
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Windowing.Common.dll
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Windowing.Desktop.dll
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\runtimes\win-x64\native\glfw3.dll
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\runtimes\win-x86\native\glfw3.dll
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.csproj.AssemblyReference.cache
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.AssemblyInfoInputs.cache
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.AssemblyInfo.cs
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_P.890186C7.Up2Date
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\refint\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.pdb
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.genruntimeconfig.cache
+C:\Users\HP\DOCUMENTOS\A_UNPOCO_GRAFICA\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\ref\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.exe
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.deps.json
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.runtimeconfig.json
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.runtimeconfig.dev.json
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.pdb
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Compute.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Core.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Graphics.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Input.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Mathematics.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.OpenAL.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Windowing.Common.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Windowing.Desktop.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\runtimes\win-x64\native\glfw3.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\runtimes\win-x86\native\glfw3.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.csproj.AssemblyReference.cache
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.AssemblyInfoInputs.cache
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.AssemblyInfo.cs
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_P.890186C7.Up2Date
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\refint\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.pdb
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.genruntimeconfig.cache
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\ref\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.exe
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.deps.json
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.runtimeconfig.json
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.runtimeconfig.dev.json
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.pdb
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Compute.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Core.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Graphics.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Input.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Mathematics.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.OpenAL.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Windowing.Common.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Windowing.Desktop.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\runtimes\win-x64\native\glfw3.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\bin\Debug\net5.0-windows\runtimes\win-x86\native\glfw3.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.csproj.AssemblyReference.cache
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.AssemblyInfoInputs.cache
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.AssemblyInfo.cs
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_P.890186C7.Up2Date
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\refint\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.pdb
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.genruntimeconfig.cache
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\OPENTK\OPENTK\OpenTK_Project-main\OpenTK_Project-main\obj\Debug\net5.0-windows\ref\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.exe
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.deps.json
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.runtimeconfig.json
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.runtimeconfig.dev.json
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.pdb
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Compute.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Core.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Graphics.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Input.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Mathematics.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.OpenAL.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Windowing.Common.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Windowing.Desktop.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\bin\Debug\net5.0-windows\runtimes\win-x64\native\glfw3.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\bin\Debug\net5.0-windows\runtimes\win-x86\native\glfw3.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.csproj.AssemblyReference.cache
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.AssemblyInfoInputs.cache
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.AssemblyInfo.cs
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_P.890186C7.Up2Date
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\obj\Debug\net5.0-windows\refint\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.pdb
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.genruntimeconfig.cache
+C:\Users\HP\DOCUMENTOS\VISUAL_PROG_GRAFICA\copia  opentk\OpenTK_Project-main\obj\Debug\net5.0-windows\ref\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.exe
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.deps.json
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.runtimeconfig.json
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.runtimeconfig.dev.json
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK_Project.pdb
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Compute.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Core.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Graphics.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Input.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Mathematics.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.OpenAL.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Windowing.Common.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Windowing.Desktop.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\bin\Debug\net5.0-windows\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\bin\Debug\net5.0-windows\runtimes\win-x64\native\glfw3.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\bin\Debug\net5.0-windows\runtimes\win-x86\native\glfw3.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.csproj.AssemblyReference.cache
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.AssemblyInfoInputs.cache
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.AssemblyInfo.cs
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_P.890186C7.Up2Date
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\obj\Debug\net5.0-windows\refint\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.pdb
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\obj\Debug\net5.0-windows\OpenTK_Project.genruntimeconfig.cache
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\transf_final_5\OpenTK_Project-main\obj\Debug\net5.0-windows\ref\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\bin\Debug\net5.0-windows\OpenTK_Project.exe
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\bin\Debug\net5.0-windows\OpenTK_Project.deps.json
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\bin\Debug\net5.0-windows\OpenTK_Project.runtimeconfig.json
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\bin\Debug\net5.0-windows\OpenTK_Project.runtimeconfig.dev.json
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\bin\Debug\net5.0-windows\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\bin\Debug\net5.0-windows\OpenTK_Project.pdb
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\bin\Debug\net5.0-windows\OpenTK.Compute.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\bin\Debug\net5.0-windows\OpenTK.Core.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\bin\Debug\net5.0-windows\OpenTK.Graphics.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\bin\Debug\net5.0-windows\OpenTK.Input.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\bin\Debug\net5.0-windows\OpenTK.Mathematics.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\bin\Debug\net5.0-windows\OpenTK.OpenAL.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\bin\Debug\net5.0-windows\OpenTK.Windowing.Common.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\bin\Debug\net5.0-windows\OpenTK.Windowing.Desktop.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\bin\Debug\net5.0-windows\OpenTK.Windowing.GraphicsLibraryFramework.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\bin\Debug\net5.0-windows\runtimes\linux-x64\native\libglfw.so.3.3
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\bin\Debug\net5.0-windows\runtimes\osx-x64\native\libglfw.3.dylib
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\bin\Debug\net5.0-windows\runtimes\win-x64\native\glfw3.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\bin\Debug\net5.0-windows\runtimes\win-x86\native\glfw3.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\obj\Debug\net5.0-windows\OpenTK_Project.csproj.AssemblyReference.cache
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\obj\Debug\net5.0-windows\OpenTK_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\obj\Debug\net5.0-windows\OpenTK_Project.AssemblyInfoInputs.cache
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\obj\Debug\net5.0-windows\OpenTK_Project.AssemblyInfo.cs
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\obj\Debug\net5.0-windows\OpenTK_Project.csproj.CoreCompileInputs.cache
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\obj\Debug\net5.0-windows\OpenTK_P.890186C7.Up2Date
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\obj\Debug\net5.0-windows\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\obj\Debug\net5.0-windows\refint\OpenTK_Project.dll
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\obj\Debug\net5.0-windows\OpenTK_Project.pdb
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\obj\Debug\net5.0-windows\OpenTK_Project.genruntimeconfig.cache
+C:\Users\HP\DOCUMENTOS\PROGRAMACION_G_TODAS_T\Transformaciones_Final\PROYECTO\obj\Debug\net5.0-windows\ref\OpenTK_Project.dll
